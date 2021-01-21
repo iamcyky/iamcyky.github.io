@@ -6,7 +6,8 @@ Hello World.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am cycus pectus
 <p style="color:red" >Ethical Hacker | Software Developer </p>
 <p style="color:green">I HACK INTO && CODE STUFF -:)
 <p style="color:33ff37"> A BEGINNER IN BUG BOUNTIES.
-<p style="color:red"> I DEVELOP APPS (majorly in python). 
+<p style="color:red"> I DEVELOP SOFTWARES (majorly in python). 
+<p style="color:white"> ALSO GETTING INTO MOBILE APP DEVELOPMENT.
 <p style="color:5f33ff">I ALSO LOVE READING ON PHYSICAL COSMOLOGY </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can visit my other accounts, here: <br> <a href="https://www.linkedin.com/in/cycus-pectus-86188a1a9//">LinkedIn</a> <br> <a href="https://github.com/cycuspectus">GitHub</a> <br> <a href="https://twitter.com/th3cyky">Twitter</a>.</p>
 
