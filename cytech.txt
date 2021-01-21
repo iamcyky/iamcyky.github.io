@@ -4,7 +4,7 @@ FROM:: "<span id="k">CYCUS PECTUS</span>". <!-- sjkfhskjf -->
 
 Hello World.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am cycus pectus
 <p style="color:red" >Ethical Hacker | Developer
-<p style="color:green">I HACK INTO && CODE STUFF -:)
+<p style="color:green">I HACK INTO STUFF && I CODE STUFF -:)
 <p style="color:33ff37"> A BEGINNER IN BUG BOUNTIES.
 <p style="color:red"> I DEVELOP SOFTWARES (majorly in python).
 <p style="color:DFFF00">I'M AN ARTIFICIAL INTELLIGENCE DEVELOPER .
