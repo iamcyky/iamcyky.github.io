@@ -15,4 +15,4 @@ Hello World.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am cycus pectus
 feel free to email me at <a href="mailto: pectuscycus@gmail.com">pectuscycus@gmail.com</a>.
 
 <p style="color:red">STAY CURIOUS!</p>
-<span id="a">cyky@Technologies</span>:<span id="b">~</span><span id="c">$</span> <p style="color:red">goodbye MUKASIA</p>
+<span id="a">cyky@Technologies</span>:<span id="b">~</span><span id="c">$</span> exit
