@@ -9,9 +9,9 @@ Hello World.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am cycus pectus
 <p style="color:red"> A PYTHON DEVELOPER.
 <p style="color:5f33ff">I ALSO LOVE READING ON PHYSICAL COSMOLOGY.
 </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> connect with me on social media : <br> <a href="https://www.linkedin.com/in/cycus-pectus-//">LinkedIn<$
+<p> connect with me on social media : <br> <a href="https://www.linkedin.com/in/cycus-pectus-//">LinkedIn</a> <br> <a href="https://github.com/iamcyky">GitHub</a> <br> <a href="https://twitter.com/_cytech">Twitter</a>.</p>
 
-feel free to email me at <a href="mailto: pectuscycus@gmail.com">pectuscycus@gmail.com</a>.
+email me @ <a href="mailto: pectuscycus@gmail.com">pectuscycus@gmail.com</a>.
 
 <p style="color:red">STAY CURIOUS!</p>
 <span id="a">cyky@Technologies</span>:<span id="b">~</span><span id="c">$</span> exit
