@@ -6,6 +6,7 @@ Hello World.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am cycus pectus
 <p style="color:red" >Ethical Hacker | Developer
 <p style="color:green">I HACK INTO STUFF && I CODE STUFF -:)
 <p style="color:33ff37"> A BEGINNER IN BUG BOUNTIES.
+<p style="color:yellow"> FULL STACK WEB DEVELOPER.
 <p style="color:red"> A PYTHON DEVELOPER.
 <p style="color:5f33ff">I ALSO LOVE READING ON PHYSICAL COSMOLOGY.
 </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
